@@ -26,7 +26,7 @@ Perfect for creators, developers, and professionals who want to share their most
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/linkhub.git
+git clone https://github.com/zayedalbloushi/linkhub.git
 cd linkhub
 ````
 

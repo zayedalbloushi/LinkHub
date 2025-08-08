@@ -18,7 +18,7 @@ Perfect for creators, developers, and professionals who want to share their most
 
 ## 📸 Preview
 
-![Preview Screenshot](public/preview.png)
+![Preview Screenshot](public/preview.PNG)
 
 ---
 
